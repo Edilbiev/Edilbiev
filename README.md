@@ -7,5 +7,5 @@ https://github.com/Edilbiev/react-desktop-chat<br/>
 Адаптивная верстка<br/>
 https://github.com/Edilbiev/verstka<br/>
 <br/>
-Приложение на Angular созданное в процессе обучения на курсах<br/>
+Приложение на Angular, созданное в процессе обучения на курсах<br/>
 https://github.com/Edilbiev/angular-todo-list
