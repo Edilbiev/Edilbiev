@@ -1,17 +1,17 @@
-Приложение для проведения текстовых онлайн-трансляций на React/Redux<br/>
+### Приложение для проведения текстовых онлайн-трансляций на React/Redux
 https://github.com/Edilbiev/react-text-broadcasts<br/>
 <br/>
-Десктопный чат на React/Redux<br/>
+### Десктопный чат на React/Redux
 https://github.com/Edilbiev/react-desktop-chat<br/>
 <br/>
-Адаптивная верстка<br/>
+### Адаптивная верстка
 https://github.com/Edilbiev/verstka<br/>
 <br/>
-Приложение на Angular, созданное в процессе обучения на курсах<br/>
+### Приложение на Angular, созданное в процессе обучения на курсах
 https://github.com/Edilbiev/angular-todo-list<br/>
 <br/>
 <br/>
-ТЗ, которые я выполнил:<br/>
+# ТЗ, которые я выполнил:<br/>
 ### 1. Анкета пользователя<br/>
 Использовал: React, Next.js, Material UI, validator, proptypes.<br/>
 https://github.com/Edilbiev/next-app<br/>
