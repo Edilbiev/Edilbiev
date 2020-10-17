@@ -5,7 +5,7 @@ https://github.com/Edilbiev/react-text-broadcasts<br/>
 https://github.com/Edilbiev/react-desktop-chat<br/>
 <br/>
 Адаптивная верстка<br/>
-https://github.com/Edilbiev/verstka<h3/>
+https://github.com/Edilbiev/verstka
 <br/>
 Приложение на Angular, созданное в процессе обучения на курсах<br/>
 https://github.com/Edilbiev/angular-todo-list
