@@ -6,9 +6,11 @@ https://github.com/Edilbiev/react-desktop-chat<br/>
 <br/>
 ### Адаптивная верстка
 https://github.com/Edilbiev/verstka<br/>
+Билд: https://edilbiev.github.io/seo/
 <br/>
 ### Приложение на Angular, созданное в процессе обучения на курсах
 https://github.com/Edilbiev/angular-todo-list<br/>
+Билд: https://edilbiev.github.io/todo-list/
 <br/>
 <br/>
 # ТЗ, которые я выполнил:<br/>
