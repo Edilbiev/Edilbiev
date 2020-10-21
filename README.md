@@ -1,4 +1,4 @@
-### Приложение для проведения текстовых онлайн-трансляций на React/Redux
+### Приложение для проведения текстовых онлайн-трансляций на React/Redux (в разработке)
 https://github.com/Edilbiev/react-text-broadcasts<br/>
 <br/>
 ### Десктопный чат на React/Redux
