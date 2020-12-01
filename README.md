@@ -22,3 +22,12 @@ https://github.com/Edilbiev/next-app<br/>
 ### 2.Список контактов<br/>
 Стек: React, Redux, Material UI, react-router.<br/>
 https://github.com/Edilbiev/takeoffstaff
+<br/>
+### 3.Резюме<br/>
+Стек: React, JS<br/>
+https://github.com/Edilbiev/axeta-test-task1
+Демо: https://edilbiev.github.io/axeta-test1/
+### 4.Корзина товаров<br/>
+Стек: React, Redux, react-router<br/>
+https://github.com/Edilbiev/axeta-test-task2
+
